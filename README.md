@@ -1,6 +1,6 @@
 # JavaScript Advanced Functions: Build a JavaScript Functional Library
 
-## Introduction
+## Introduction   
 
 "Functional programming (FP)" is a style of programming like record-oriented or
 object-oriented programming. It's very popular in languages that ***LOVE***
